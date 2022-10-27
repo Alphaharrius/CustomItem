@@ -1,0 +1,8 @@
+main: dev.customitem.core.CurrentPlugin
+api-version: 1.16
+name: CustomItem
+version: "0.1"
+author: Alphaharrius
+commands:
+  arrow-gun:
+  arrow-assault-rifle:
